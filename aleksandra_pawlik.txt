@@ -1,0 +1,3 @@
+My name is Aleksandra Pawlik. I work at the Software Sustainability Institute co-ordinating 
+its various training activities. I am also one of the trainers running the ELIXIR Software and
+Data Carpentry Instructor Training at Manchester on 23-24th November 2015.
