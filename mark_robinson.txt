@@ -1,0 +1,4 @@
+My name is Mark Robinson. I'm an Assistant Professor at the University of Zurich and I work in
+"Statistical Bioinformatics".  I teach statistics courses (mostly graduate level) as well
+as practical bioinformatics courses (mostly undergraduate level).  Our research is into 
+statistical methods for various types of "omic" data.  We mostly use R.
