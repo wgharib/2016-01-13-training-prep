@@ -1,0 +1,5 @@
+My name is Philip Lijnzaad, I am a bioinformatician at University Medical Centre Utrecht, Holland. 
+I am mostly researcher, but also do a fair amount of teaching to undergraduates, PhD students and postdocs.
+My field is fundamental research is into transcriptional regulation in yeast, but I will be 
+transitioning to single cell genomics in pediatric oncology. The kind of data we have is very diverse omics data, 
+previously mostly microarrays, nowadays of course mostly NGS in various forms: RNA-Seq, ChIP-seq, MNase seq, etc.
