@@ -1,0 +1,5 @@
+My name is Frank Pennekamp. I am a postdoc at the University of Zurich, working in the 
+Department of Evolutionary Biology and Environmental Studies. I do experimental work 
+using microbes as models and I rely a lot on digital image and video processing for measuring
+their abundances and traits. I use mostly R for my daily work but also rely on other languages 
+such as Python and SQL once in a while. 
