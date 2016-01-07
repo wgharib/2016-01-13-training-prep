@@ -1,0 +1,5 @@
+My name is Stefan Wyder, I am a bioinformatician at the University of Zurich, Switzerland. 
+My main tasks is to provide bioformatics support to PhD students in evolutionary biology, and I do regular 
+teaching to PhD students and postdocs in applied bioinformatics and computing.
+Current research deals with various High-Throughput Sequencing projects as well as with the STRING database.
+For my daily work I use mostly R and some python and SQL.
