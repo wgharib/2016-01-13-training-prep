@@ -1,0 +1,1 @@
+My name is David and I’m a researcher at the University of Bergen, Norway. My group studies the evolution of gene regulation primarily using computational methods. We use a mix of R, python and shell-scripts, striving towards reproducible science. I teach graduate level applied programming and genomics analysis as part of the Norwegian Elixir platform.
