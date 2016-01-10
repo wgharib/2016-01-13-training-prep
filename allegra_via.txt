@@ -1,0 +1,1 @@
+My name is Allegra Via. I'm a senior researcher - in protein structural bioinformatics - at the Italian National Research Council (CNR) and at Sapienza University of Rome. Besides academic teaching, I'm a trainer (Python programming, bioinformatics) and the Training Coordinator for ELIXIR Italy, for which, among the other things, I design, organise and run training courses. 
