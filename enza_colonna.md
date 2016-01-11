@@ -1,0 +1,1 @@
+Hi, I am researcher at the Italian National Research Council.I work in population genomics to study adaptation in humans and its relationship with disease and deleterious mutations in human consanguineous populations. I use R, Python and I am learning C++.
