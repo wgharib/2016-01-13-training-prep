@@ -1,0 +1,2 @@
+I am a post-doc at the Interfaculty Bioinformatics Unit at University of Bern, I am also member of the Training and Outreach Group (TOG) at the Swiss Institute of Bioinformatics (SIB).
+My role is focused on providing knowledge and training to postgraduates in various bioinformatics fields e.g. Analysis of High throughput Sequencing data, proper usage of high performance computing platforms, Python programming, R-statistics amongst other courses
